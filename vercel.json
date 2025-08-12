@@ -7,7 +7,7 @@
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "contacomum/wsgi.py"
+        "dest": "cadastro_comum/wsgi.py"
       }
     ]
 }
